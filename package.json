@@ -1,7 +1,7 @@
 {
-  "name": "React_BoilerPlate",
+  "name": "Hafizferanmi",
   "version": "1.2.0",
-  "description": "React BoilerPlate with hot reload",
+  "description": "Projects to pick up new contents on the web",
   "main": "./src/index.js",
   "repository": {
     "type": "git",
